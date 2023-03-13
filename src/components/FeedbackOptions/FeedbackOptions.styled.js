@@ -4,7 +4,7 @@ export const Button = styled.button`
   font-size: 18px;
   font-weight: bold;
   color: rgb(35, 75, 83);
-  background-color: rgb(217, 238, 242);
+  background-color: rgb(111, 116, 232);
   background-image: linear-gradient(180deg, rgb(201, 194, 240) 30%, transparent 70%);
   background-repeat: no-repeat;
   background-position: center 45%;
